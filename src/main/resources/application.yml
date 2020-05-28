@@ -1,0 +1,5 @@
+server:
+  servlet:
+    context-path: /maple
+  port: 8080
+
